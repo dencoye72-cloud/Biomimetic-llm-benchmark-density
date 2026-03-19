@@ -38,12 +38,12 @@ The ceiling is in instruction-following capacity, not prompt density.
 
 | File | Description |
 |---|---|
-| `Papier_v2.pdf` | Full paper — v2 |
-| `Appendices_v2.pdf` | Appendices A–H — prompts, questions, results, figures, statistics |
-| `Data_v2.3.zip` | Dataset — condensed condition (dataset_500q.py, 500 questions, 10 anchors) |
-| `Data_v2.4.zip` | Dataset — enriched condition (same questions + enriched prompt configs) |
-| `Résultats_v2.3.zip` | CSV results — v2.3 condensed (6 models × 30 configs × 200 questions) |
-| `Résultats_v2.4.zip` | CSV results — v2.4.1 enriched (6 models × 35 configs × 200 questions) |
+| `Biomimetic Prompt Density Has No Meaningful Effect on 8B Local_v2_paper.pdf` | Full paper — v2 |
+| `Biomimetic Prompt Density Has No Meaningful Effect on 8B Local_v2_appendices.pdf` | Appendices A–H — prompts, questions, results, figures, statistics |
+| `Data v2.3.zip` | Dataset — condensed condition (dataset_500q.py, 500 questions, 10 anchors) |
+| `Data v2.4.zip` | Dataset — enriched condition (same questions + enriched prompt configs) |
+| `Resultats v2.3.zip` | CSV results — v2.3 condensed (6 models × 30 configs × 200 questions) |
+| `Résultats v2.4.zip` | CSV results — v2.4.1 enriched (6 models × 35 configs × 200 questions) |
 | `Biomimetic_benchmark_Python_v2.3.zip` | Python scripts — condensed benchmark pipeline |
 | `Biomimetic_benchmark_Python_v2.4.zip` | Python scripts — enriched benchmark pipeline (patched) |
 
