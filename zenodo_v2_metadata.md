@@ -79,12 +79,12 @@ reproducibility
 
 | Fichier | Description | Format |
 |---|---|---|
-| `Papier_v2.pdf` | Article scientifique v2 | PDF |
-| `Appendices_v2.pdf` | Annexes A–H (figures D.1–D.7 embarquées, 756 Ko) | PDF |
-| `Data_v2.3.zip` | dataset_500q.py + questions condensed | ZIP |
-| `Résultats_v2.3.zip` | CSV condensed — 6 modèles × 30 configs × 200 questions | ZIP |
-| `Data_v2.4.zip` | dataset_500q.py + configs enrichis | ZIP |
-| `Résultats_v2.4.zip` | CSV enriched — 6 modèles × 35 configs × 200 questions | ZIP |
+| `Biomimetic Prompt Density Has No Meaningful Effect on 8B Local_v2_paper.pdf` | Article scientifique v2 | PDF |
+| `Biomimetic Prompt Density Has No Meaningful Effect on 8B Local_v2_appendices.pdf` | Annexes A–H (figures D.1–D.7 embarquées, 756 Ko) | PDF |
+| `Data v2.3.zip` | dataset_500q.py + questions condensed | ZIP |
+| `Resultats v2.3.zip` | CSV condensed — 6 modèles × 30 configs × 200 questions | ZIP |
+| `Data v2.4.zip` | dataset_500q.py + configs enrichis | ZIP |
+| `Résultats v2.4.zip` | CSV enriched — 6 modèles × 35 configs × 200 questions | ZIP |
 | `Biomimetic_benchmark_Python_v2.3.zip` | Scripts 1_–8_, configs, ground truth v2.3 | ZIP |
 | `Biomimetic_benchmark_Python_v2.4.zip` | Idem v2.3 + patch num_predict + filtre think | ZIP |
 
@@ -106,7 +106,7 @@ reproducibility
 
 | DOI v1 | Relation |
 |---|---|
-| *(DOI Zenodo v1)* | `is new version of` |
+| `10.5281/zenodo.18629578` | `is new version of` |
 
 ---
 
