@@ -4,7 +4,8 @@
 
 **Upload type :** Publication  
 **Publication type :** Preprint  
-**DOI :** *(attribué par Zenodo à la soumission)*  
+**DOI :** `10.5281/zenodo.19113535` (version 2.0.0)  
+**DOI toutes versions :** `10.5281/zenodo.19113534`  
 **Date de publication :** 2026-03-19 *(à ajuster à la date réelle de soumission)*
 
 ---
